@@ -1,5 +1,5 @@
 
-A minimal PyTorch re-implementation of [MLP-Mixer](https://arxiv.org/abs/2105.01601), to use for your own project or for educational use. Not, I have not tested it on 'real' data!
+A minimal PyTorch re-implementation of [MLP-Mixer](https://arxiv.org/abs/2105.01601), to use for your own project or for educational use. Note, I have not tested the code on 'real' data!
 
 ### References
 
